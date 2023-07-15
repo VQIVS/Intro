@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm QIVS</h1>
-<h3 align="center">Linux administrator and backend developer</h3>
+<h3 align="center">My name is AmirMahdi Qiasvand and I'm currently rocking it as a Back-End Developer. 
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
